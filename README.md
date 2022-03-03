@@ -1,18 +1,7 @@
 <div id="top"></div>
 
 
-<!-- 修改url -->
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge">
-  </a>  
-  <a href="https://github.com/othneildrew/Best-README-Template/stargazers">
-    <img src="https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge">
-  </a>  
-  <a href="https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge">
-  </a>  
-</div>
+
 
 
 
@@ -32,7 +21,22 @@
   </p>
 </div>
 
+<!-- 修改url -->
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge">
+  </a>  
+  <a href="https://github.com/othneildrew/Best-README-Template/stargazers">
+    <img src="https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge">
+  </a>  
+  <a href="https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge">
+  </a>  
+</div>
+<br />
+<br />
 
+---
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -78,7 +82,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
